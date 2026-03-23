@@ -16,6 +16,7 @@ This project simulates a Cloud-Based Smart Grid Demand-Side Management system us
 - Python
 - Streamlit
 - MQTT
+- streamlit cloud community for hosting 
 
 ## ▶️ How to Run
 1. Install requirements:
